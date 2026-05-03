@@ -1,0 +1,36 @@
+
+
+OOP=> Object Oriented Programming (Programming Rules)
+
+PHP, Java, Python, C#, C++
+
+OOP=> 
+1.Reuseability
+2.Security
+3.Easily Maintainable
+
+Laravel(MVC)=> OOP
+ 
+ Class and Object
+
+ Class=> Draft, Blue Print
+ Object
+
+ Car(Object) => Color, Engine, Model, Breaking
+
+class ClassName {
+    //Property(variable, function)
+}
+
+Access Modifier:
+1.public
+2.private
+3.protected
+
+
+Calculator (Object) => sum, subtraction, multification, division
+
+Constructor-Destructor
+
+__constructor
+__destuctor
