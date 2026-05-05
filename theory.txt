@@ -34,3 +34,11 @@ Constructor-Destructor
 
 __constructor
 __destuctor
+
+Inheritance:
+
+Public => The property or method can be accessed from everywhere. This is default (within the class, global scop, child class)
+
+Private => The property or method can be accessed within the class
+
+Protected=> The property or method can be accessed within the class & child class
